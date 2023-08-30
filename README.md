@@ -1,1 +1,1 @@
-<a rel="me" href="https://ciberlandia.pt/@lr">Mastodon</a>
+Mastodon: <a rel="me" href="https://ciberlandia.pt/@lr">português</a>
